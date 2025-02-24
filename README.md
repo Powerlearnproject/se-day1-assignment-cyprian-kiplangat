@@ -74,4 +74,3 @@ Prompt engineering is the art of crafting effective prompts to elicit desired re
 *   **Improved Prompt:** "Describe the physical characteristics, common behaviors, and dietary needs of domestic cats."
 
 The improved prompt is more effective because it provides specific instructions, guiding the AI to generate a more focused and relevant response.
-Software Engineering Day1 Assignment
